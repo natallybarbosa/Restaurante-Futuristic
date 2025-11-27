@@ -1,5 +1,0 @@
-Chef Carlos (ID 1)
-
-Mesa 5:
- - mola
-
